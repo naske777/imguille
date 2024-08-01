@@ -8,12 +8,14 @@ export default function Home() {
         width={300}
         height={300}
         src="/blueShape.svg"
+        alt="Blue shape"
       />
       <Image
         className="ms-10 w-[130vw] max-w-[130vw] h-[400px] absolute -bottom-[180px] "
         width={300}
         height={300}
         src="/grayShape.svg"
+        alt="Gray shape"
       />
     </main>
   );
